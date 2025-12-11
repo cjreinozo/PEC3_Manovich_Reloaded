@@ -2,6 +2,7 @@
 
 ### **Recurso de aprendizaje de Cultura Digital**
 Autor: Carlos Julio Reinozo Castellano
+
 Fecha: Diciembre 2025
 
 ## **Planteamiento**
