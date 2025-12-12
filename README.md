@@ -1,9 +1,9 @@
 # **PEC3: Visionando el futuro con las gafas de Manovich**
 
 ### **Recurso de aprendizaje de Cultura Digital**
-Autor: Carlos Julio Reinozo Castellano
-
-Fecha: Diciembre 2025
+**Autor:** Carlos Julio Reinozo Castellano
+**Fecha:** 19/12/2025  
+**Asignatura:** Cultura Digital - Aula 1
 
 ## **Planteamiento**
 
@@ -40,6 +40,10 @@ UEFN lleva aún más lejos esta lógica al incorporar capacidades avanzadas de *
 Lo más significativo es que Fortnite funciona como una fusión entre juego, herramienta y plataforma. El usuario ya no “juega” una obra creada por otros, ahora construye  mundos, experimenta con reglas, produce imágenes en movimiento, crea estructuras y comparte experiencias con otros usuarios. Fortnite, al igual que las Quest 3, confirma la tesis de Manovich, que cuando los medios se convierten en software, se convierten en sistemas abiertos donde  emergen nuevas formas culturales.
 
 ![Unreal Editor Logo](https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_S1OfferImage_2560x1440_2560x1440-bc992b49496068f859100ec4cc6e0f3c)
+
+## **Conclusiones generales**
+
+Analizar _**First Encounters**_ y _**Fortnite Creative**_ desde la perspectiva de Manovich permite entender que la hibridación no es solo una cuestión tecnológica sino una experiencia cotidiana que ya forma parte de cómo interactuamos con el mundo. En ambos casos, el usuario ya no se limita a consumir un medio, sino que participa activamente en el, ya sea habitando un espacio físico reconfigurado digitalmente o construyendo experiencias dentro de una plataforma. Esta transición redefine nuestra relación con los medios, pasamos de observarlos a vivir dentro de ellos. Desde esta perspectiva, la hibridación que describe Manovich no hace referencia a un futuro lejano sino a un cambio que ya está presente, donde los límites entre lo real y lo digital se vuelven cada vez más difusos.
 
 ## **Referencias y Bibliografía**
 
